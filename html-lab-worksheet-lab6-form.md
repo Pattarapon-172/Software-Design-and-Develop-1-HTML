@@ -371,9 +371,7 @@
             </div>
         </fieldset>
     </form>]
-```html
-
-![image](https://github.com/user-attachments/assets/d993140e-87c0-4965-abe8-7db9100f6857)
+![image](https://github.com/user-attachments/assets/3ca8e03d-cddf-4ece-90ce-7d88c6586b81)
 
 
 
