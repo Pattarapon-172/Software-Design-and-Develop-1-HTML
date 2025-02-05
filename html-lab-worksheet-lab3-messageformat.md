@@ -35,5 +35,6 @@
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/376054a9-f4b1-466f-a7a9-4598561dc716)
 
 
