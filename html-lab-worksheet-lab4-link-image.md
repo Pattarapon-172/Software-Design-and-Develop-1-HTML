@@ -163,12 +163,88 @@
    - มีปุ่มกลับด้านบน
 
 ### บันทึกผลการทดลอง
-- รหัสเอกสาร HTML ที่เขียน:
-```html
-[วางโค้ด HTML ที่นี่]
-```
-- ภาพผลลัพธ์:
-[วางภาพ screenshot ที่นี่]
+[<!DOCTYPE html>
+<html lang="th">
+    <div style="text-align: center;">
+    <img src="image/Wave-125i-Logo-2012-(Medium).jpg" 
+alt="โลโก้บริษัท"
+width="150">
+<div style="text-align: center;">
+    <p>Honda thailand </p>
+</div>
+
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าหลัก</title>
+</head>
+<nav>
+    <!-- ลิงก์ภายใน - ไปยังหน้าในเว็บไซต์เดียวกัน -->
+    <a href="https://www.thaihonda.co.th/honda/motorcycle/family/all-new-wave125i">หน้าหลัก</a>
+    
+    
+    <!-- ลิงก์ภายนอก - เปิดในแท็บใหม่ -->
+    <a href="https://www.motorshow.me/uploadImages/GalleryDocs/Doc6652.pdf" target="_blank">
+        สเปค
+    </a>
+</nav>
+</html>
+<body>
+    Honda Wave 125i 2023
+</body>
+</html>
+<section id="top">
+    <h1>เนื้อหาส่วนสำคัญ</h1>
+</section>
+โช๊คอัพถูกปรับปรุงใหม่ เพิ่มระยะยุบของโช้คอัพด้านหน้าและด้านหลัง สามารถซับแรงกระแทก ช่วยให้ทรงตัวดียิ่งขึ้น
+
+ระบบเบรกด้านหน้า ใช้ดิสก์เบรกเดี่ยว พร้อมปั้มเบรก 1 พอต ส่วนล้อใช้เป็นล้ออัลลอยขนาด 17 นิ้ว รัดยางขนาด 70/90-17
+<section id="products">
+    <h2>สินค้าของเรา</h2>
+</section>
+<a href="https://www.motorshow.me/uploadImages/GalleryDocs/Doc6652.pdf" target="_blank">
+    สเปค
+</a>
+<figure>
+<img src="image/product/000000187306_7237487c_c4ea_4667_8681_38fa2c36fd10.jpg" 
+     alt="สินค้าชิ้นที่ 1">
+    <figcaption>
+        All New Wave 125i มาพร้อมดีไซน์สปอร์ตด้วยเฟรมใหม่ ออกแบบวัสดุและเทคนิคการเชื่อมต่อตัวถังให้แข็งแรงทนทาน น้ำหนักเบาลง ควบคุมรถได้ง่ายและคล่องตัวกว่าเดิม 
+    </figcaption>
+<figure>
+   
+    <img src="image/product/05ThHonda_Wave125i-2022_WingCenter_Color_chart_Blue.png" 
+         alt="สินค้าชิ้นที่ 2">
+    <figcaption>
+        All New Wave 125i มาพร้อมคอนเซปต์ “ผู้นำที่ทุกคนเชื่อมั่น” โดยมี “เวียร์-ศุกลวัฒน์ คณารส” เป็น พรีเซนเตอร์ เพื่อสะท้อนอัตลักษณ์ความเป็น “ผู้นำที่ทุกคนเชื่อมั่น” ทั้งตัวผลิตภัณฑ์และผู้ครอบครอง ให้สมกับเป็นรถจักรยานยนต์ครอบครัวระดับท็อปคลาสแห่งยุค
+
+</figure>
+<a href="https://www.motor1.com/reviews/738653/2025-bmw-m5-review/" target="_blank">
+    สเปค
+</a>
+<figure>
+<a href="image/product/8b05e021517888e1d14db53595303fa1.webp">
+    <img src="image/product/8b05e021517888e1d14db53595303fa1.webp" 
+         alt="คลิกเพื่อดูรูปขนาดใหญ่"
+         width="200">
+</figure>
+</a>
+
+<!-- ลิงก์ไปยังจุดเชื่อมโยง -->
+<a href="http://127.0.0.1:5500/index.html">กลับสู่หน้าหลัก</a>
+<a href="https://www.bmw.co.th/th/all-models.html">ไปยังสินค้า</a>
+
+<!-- ลิงก์อีเมล -->
+<a href="67030172@kmitl.ac.th">ส่งอีเมลหาเรา</a>
+
+<!-- ลิงก์โทรศัพท์ -->
+<a href="tel:+66955243927">โทร 099-287-8348</a>
+
+<!-- ลิงก์ดาวน์โหลด -->
+<a href="file/PGMFI.pdf" download>
+    ดาวน์โหลดเอกสาร
+</a>]
+![image](https://github.com/user-attachments/assets/7265b16a-6203-4be5-986b-f1b8f1171bdd)
+
 
 
 
