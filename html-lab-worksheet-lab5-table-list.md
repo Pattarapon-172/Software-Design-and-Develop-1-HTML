@@ -115,9 +115,7 @@
     <dt>บิ้กแป้ม</dt>
     <dd>สั่งกระเพราหมูสับไข่ดาว</dd>
 </dl>]
-```html
 
-```
 - ภาพผลลัพธ์:
 [![image](https://github.com/user-attachments/assets/b16d2656-6303-488e-9836-cc129ff3ab01)
 ]
