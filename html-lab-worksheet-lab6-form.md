@@ -222,7 +222,7 @@
    - ตรวจสอบขนาดไฟล์รูปภาพ
 
 ### บันทึกผลการทดลอง
-[    <!-- กำหนดรูปแบบของฟอร์มบางส่วน -->
+    <!-- กำหนดรูปแบบของฟอร์มบางส่วน -->
     <style>
         .form-group {
             margin-bottom: 15px;
@@ -339,19 +339,17 @@
             </fieldset>
         
             <!-- ส่วนยืนยันข้อมูล -->
-            <fieldset>
-                <legend>การยืนยันรหัสผ่าน</legend>
-        
-                <div class="form-group">
-                    <input type="checkbox" id="agree" name="agree" required>
-                    <label for="agree">
-                        ข้าพเจ้ายืนยันว่าข้อมูลทั้งหมดเป็นความจริง
-                    </label>
-                </div>
-        
-                <div class="form-group">
-                    <button type="submit">ลงทะเบียน</button>
-                    <button type="reset">ล้างข้อมูล</button>
+            ``` <fieldset>
+        <legend>การยืนยันรหัสผ่าน</legend>
+
+        <div>
+            <label for="password">รหัสผ่าน:</label>
+            <input type="password" id="password" name="password" required>
+            <label for="password">ยืนยันรหัสผ่าน:</label>
+            <input type="password" id="password" name="password" required>
+        </div>
+
+    </fieldset>```
                 </div>
             </fieldset>
         </form>
@@ -370,8 +368,9 @@
                 <button type="reset">ล้างข้อมูล</button>
             </div>
         </fieldset>
-    </form>]
-![image](https://github.com/user-attachments/assets/3ca8e03d-cddf-4ece-90ce-7d88c6586b81)
+    </form>
+![image](https://github.com/user-attachments/assets/38b9c149-aa7f-44f4-bf57-4fbabd1f1dac)
+
 
 
 
